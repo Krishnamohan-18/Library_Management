@@ -133,8 +133,8 @@ FROM issued_status
 GROUP BY 1
 Having count(*)>1
 ```
-3. **CTAS (Create Table As Select)**  
-   **Task 6:** Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt
+3. **CTAS (Create Table As Select)**    
+   **Task 6:** Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt  
 CREATE TABLE book_issued_cnt AS
 SELECT
 b.isbn,
