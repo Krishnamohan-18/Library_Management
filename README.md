@@ -125,7 +125,7 @@ WHERE   issued_id =   'IS121';
 SELECT * FROM issued_status
 WHERE issued_emp_id = 'E101'
 ```
-**Task 5:** List Members Who Have Issued More Than One Book -- Objective: Use GROUP BY to find members who have issued more than one book. 
+**Task 5:** List Members Who Have Issued More Than One Book -- Objective:  Find members who have issued more than one book. 
 ```sql
 SELECT issued_emp_id,
 count(*),
