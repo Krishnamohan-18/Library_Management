@@ -9,4 +9,6 @@ This project demonstrates the implementation of a Library Management System usin
 3.**CTAS (Create Table As Select):** Utilize CTAS to create new tables based on query results.  
 4.**Advanced SQL Queries:** Develop complex queries to analyze and retrieve specific data.  
 # Project Structure
+**Datasetup**  
+
 ![ER_Diagram_Lib](https://github.com/user-attachments/assets/3fb0454f-fd2b-44d9-bc6d-05966ee1afd9)
