@@ -1,3 +1,4 @@
+``` sql
 -- INSERT INTO book_issued in last 30 days
 -- SELECT * from employees;
 -- SELECT * from books;
@@ -22,3 +23,4 @@ SET book_quality = 'Damaged'
 WHERE issued_id 
     IN ('IS112', 'IS117', 'IS118');
 SELECT * FROM return_status;
+```
