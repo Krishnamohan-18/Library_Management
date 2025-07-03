@@ -1,4 +1,4 @@
-``` sql
+ ``` SQL 
 INSERT INTO members(member_id, member_name, member_address, reg_date) 
 VALUES
 ('C101', 'Alice Johnson', '123 Main St', '2025-05-15'),
