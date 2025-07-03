@@ -3,7 +3,7 @@
 -- SELECT * from employees;
 -- SELECT * from books;
 -- SELECT * from members;
--- SELECT * from issued_status
+-- SELECT * from issued_status;
 
 
 INSERT INTO issued_status(issued_id, issued_member_id, issued_book_name, issued_date, issued_book_isbn, issued_emp_id)
